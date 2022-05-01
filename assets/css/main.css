@@ -2051,6 +2051,15 @@
 		}
 
 	}
+/* DD added this block on 05/01/2022 at 5:37pm EDT */
+	html {
+		box-sizing: border-box;
+	}
+
+	*, *:before, *:after {
+		box-sizing: inherit;
+	}
+/* End of bloack */
 
 	body {
 		background: #ffffff;
