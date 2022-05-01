@@ -6,7 +6,8 @@ description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
 baseurl: "" #"/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://dwaipayandasgupta.github.io" # the base hostname & protocol for your site
 author:
-street_address: 339 Zeanah Engineering Complex\ 863 Neyland Drive
+street_address: 339 Zeanah Engineering Complex
+863 Neyland Drive
 city: Knoxville
 state: TN
 zip_code: 37996
