@@ -1,7 +1,7 @@
 # Site settings
 title: Personal Webpage 
 subtitle: of Dwaipayan Dasgupta
-email: youremailaddress@gmail.com
+email: DDasgupta.AT.utk.edu
 description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
 baseurl: "" #"/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://dwaipayandasgupta.github.io" # the base hostname & protocol for your site
