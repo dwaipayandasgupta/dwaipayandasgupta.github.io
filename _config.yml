@@ -6,12 +6,12 @@ description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
 baseurl: "" #"/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://dwaipayandasgupta.github.io" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
+street_address: 339 Zeanah Engineering Complex\ 863 Neyland Drive
+city: Knoxville
 state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+zip_code: 37996
+country: #United States of America
+phone: (865) 974-7568
 
 # Social settings
 500px_url:
