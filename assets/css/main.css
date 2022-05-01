@@ -3878,7 +3878,7 @@
 			-webkit-flex-shrink: 1;
 			-ms-flex-shrink: 1;
 			flex-shrink: 1;
-			width: 50%;
+			width: 65%;
 		}
 
 		#banner .image {
@@ -3892,11 +3892,11 @@
 			flex-shrink: 0;
 			display: block;
 			margin: 0 0 2em 4em;
-			width: 50%;
+			width: 35%;
 		}
 
 			#banner .image img {
-				height: 100%;
+				height: 85%;
 				-moz-object-fit: cover;
 				-webkit-object-fit: cover;
 				-ms-object-fit: cover;
@@ -3992,7 +3992,7 @@
 			color: inherit;
 			cursor: pointer;
 			display: block;
-			font-size: 0.9em;
+			font-size: 1.1em;
 			padding: 0.625em 0;
 		}
 
@@ -4059,7 +4059,7 @@
 		}
 
 			#menu > ul > li > ul a, #menu > ul > li > ul span {
-				font-size: 0.8em;
+				font-size: 1.0em;
 			}
 
 			#menu > ul > li > ul > li {
