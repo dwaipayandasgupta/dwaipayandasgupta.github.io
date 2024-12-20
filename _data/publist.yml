@@ -1,0 +1,143 @@
+- title: "IFN-γ Production by Functionally Reprogrammed Tregs Promotes Antitumor Efficacy of OX40/CD137 Bispecific Agonist Therapy"
+  image: Imianowski_CCR_2024.png
+  description: Regulatory T cells (Treg) are enriched within tumors and suppress immune responses to cancer. There is interest in reprogramming Tregs to contribute to antitumor immunity. Here, we show that OX40/CD137 bispecific agonists induce potent antitumor immunity in large part dependent upon functional reprogramming of Tregs to produce IFN-γ, through induction of both Treg lineage instability and fragility. Conditional deletion of Ifng in Foxp3+ Tregs and their progeny partially reversed the antitumor efficacy of OX40/CD137 bispecific agonist therapy, revealing that reprogramming of Tregs into IFNγ-producing cells contributes to the anti-tumor efficacy of OX40/CD137 bispecific agonists. 
+
+  authors: Imianowski, Kuo, et al.
+  link:
+    url: Imianowski_CCR.pdf
+    display: <b>Cancer Research Communications (2024)</b>
+  highlight: 1
+  news2:
+  
+- title: "Acquisition of suppressive function by conventional T cells limits antitumor immunity upon Treg depletion"
+  image: Whiteside_SI_2023.png
+  description: Strategies to disrupt Treg cell–mediated cancer immunosuppression have been met with limited clinical success. By modeling Treg cell–targeted immunotherapy in mice, we find that CD4+ Foxp3− conventional T (Tconv) cells acquire suppressive function upon depletion of Foxp3+ Treg cells, limiting therapeutic efficacy. This activity is attributable to a Th2-like subset of CCR8+ Tconv cells which mediate IL-10–dependent suppression of antitumor immunity. The findings reveal a counterregulatory layer of immunosuppression released upon therapeutic Treg cell depletion and suggest that broader consideration of suppressive function within the T cell lineage is required for development of effective Treg–targeted therapies.
+
+  authors: Whiteside, et al.
+  link:
+    url: Whiteside_SI.pdf
+    display: <b>Science Immunology (2023)</b>
+  highlight: 1
+  news2:
+  
+- title: "BACH2 restricts NK cell maturation and function limiting immunity to cancer metastasis"
+  image: bach2nk.png
+  description: Natural killer (NK) cells are critical to immune surveillance against infections and cancer. Here we show that the transcription factor BACH2 functions as a critical negative regulator of NK cell function within tissues, restricting immunity to cancer metastasis. The findings show that the maturation state of NK cells in tissues is a major determinant of anti-metastatic immunity. 
+  authors: Imianowski, et al.
+  link:
+    url: Imianowski_JEM.pdf
+    display: <b>J Exp Med (2022)</b>
+  highlight: 1
+  news2:
+
+- title: "IL-2 is inactivated by the acidic pH environment of tumours enabling engineering of a pH-selective mutein"
+  image: switch2.png
+  description: Here, we show that IL-2, a cytokine critical to supporting CD8 T cell and NK cell functions within tumours exhibits markedly compromised binding to the IL-2Rα receptor chain in acidic extracellular environments. Directed evolution was used to screen for IL-2 variants with mutations at the receptor interface that enhanced receptor binding at low pH. A mutated “Switch-2” variant of IL-2 with strong receptor binding at pH 6 but minimal interaction at neutral pH exhibited enhanced in vivo antitumor activity with reduced toxicity in normal tissues.
+  authors: Gaggero, Martinez-Fabregas, et al.
+  link:
+    url: 36459543.pdf
+    display: <b>Science Immunology (2022)</b>
+  highlight: 1
+  news2:
+
+- title: "CCR8 marks highly suppressive Treg cells within tumours but is dispensable for their accumulation and suppressive function"
+  image: Whiteside_immunology_ccr8_2021.png
+  description: There is interest in selectively targeting the suppressive function of Treg cells within tumours. We show that high levels of CCR8 expression distinguish highly suppressive Treg cells within tumours, but that genetic deletion of CCR8 has minimal impact on Treg suppressive function or tumor immunity. These findings suggest that CCR8 is not required for Treg suppression within tumours and that depletion of CCR8+ Treg cells rather than blockade of CCR8 function will enable selective cancer immunotherapy.
+  authors: Whiteside, et al.
+  link:
+    url: 33838058.pdf
+    display: <b>Immunology (2021)</b>
+  highlight: 1
+  news2:
+  
+- title: "A distal enhancer at risk locus 11q13.5 promotes suppression of colitis by Treg cells"
+  image: Nasrallah_Imianowski_Lrrc32_Nature.png
+  description: Genetic variations underlying risk of complex immune-mediated diseases are concentrated within the non-coding genome at enhancers. The functions of a vast majority of enhancers are unresolved. Using CRISPR-based mutagenesis of human disease-associated enhancer homologs in mice, we show that a distal enhancer at the human 11q13.5 immune disease risk locus promotes Treg-mediated suppression of colitis by driving expression of the TGF-β docking receptor GARP on Treg cells.
+  authors: Nasrallah, Imianowski, et al.
+  link:
+    url: nasrallah_imianowski_nature_2020.pdf
+    display: <b>Nature (2020)</b>
+  highlight: 1
+  news2: Recommended by F1000; Commentary in Sci Immunol 5,eabe0976
+
+- title: "BACH2 drives quiescence and maintenance of resting Treg cells to promote homeostasis and cancer immunosuppression"
+  image: Grant_Yang_Bach2_JEM.png
+  description: Treg cells are maintained over long periods of time despite a continuous requirement for their suppressive function. This study established a critical function of quiescent cells in Treg maintenance. The transcription factor BACH2 is critical for Treg cell development. We show that in mature Treg cells, Bach2 is highly expressed in quiescent cells where it binds to enhancers of genes associated with Treg activation and represses their TCR- and AP-1-driven induction. By imposing quiescence in this subset of Treg cells, BACH2 promotes maintenance of Treg responses, and durable immune suppression in cancer. 
+  authors: Grant, Yang et al.
+  link:
+    url: Grant_Yang_JEM.pdf
+    display: <b>J Exp Med (2020)</b> 
+  highlight: 1
+  news2:
+  
+
+- title: "A human monogenic inflammatory disease caused by loss-of-function mutations in BACH2"
+  image: afzali_NI_2017_b.png
+  description: This study describes a human monogenic disease resulting from inactivating mutations of BACH2, termed BACH2-related Immunodeficiency and Autoimmunity (BRIDA). Affected patients have lymphocyte-differentiation defects associated with immunodeficiency and inflammation of the intestinal tract and lungs. This work resulted from an international collaboration with clinical and academic researchers in the US and UK. 
+  authors: Afzali et al.
+  link:
+    url: Afzali NI 2017.pdf
+    display: <b>Nat Immunol (2017)</b> 18:813-823. 
+  highlight: 1
+  news2: 
+ 
+- title: "BACH transcription factors in innate and adaptive immunity"
+  image: igarashi_nri_2017_b.png
+  description: Here we review roles of BACH family transcriptional repressors in innate and adaptive immunity. We highlight similarities at a molecular level in the cell-type-specific activities of the BACH factors, proposing that competitive interactions of BACH proteins with transcriptional activators of the bZIP family form a common mechanistic theme underlying their diverse actions. 
+  authors: Igarashi, Kurosaki and Roychoudhuri
+  link:
+    url: Igarashi NRI 2017.pdf
+    display: <b>Nat Rev Immunol (2017)</b> 17:437-450. 
+  highlight: 1
+  news2: 
+
+- title: "High levels of extracellular potassium in tumours suppress T cell activation"
+  image: eil_nature_2016_b.png
+  description: This study revealed that cell death in the tumour microenvironment releases intracellular potassium into the extracellular microenvironment of tumours, causing profound suppression of T cell activation. High extracellular potassium concentrations impair T cell receptor (TCR)-driven Akt-mTOR phosphorylation and effector programmes. Engineering CD8+ T cells to be resistant to high extracellular potassium in tumours improves adoptive immunotherapy.
+  authors: Eil et al.
+  link:
+    url: Eil Nature 2016.pdf
+    display: <b>Nature (2016)</b> 537:539-543.
+  highlight: 1
+  news2: 
+
+- title: "Oxygen-sensing by T cells promotes cancer metastasis to the lung"
+  image: clever_cell_2016_a.png
+  description: The lung is a frequent site of cancer metastasis but whether there is an immunological component to this susceptibility has been unclear. Here, we show that T cell responses to metastasis within the lung are restricted by high oxygen concentrations. The HIF prolyl hydroxylases PHD1, PHD2 and PHD3 mediate sensitivity of T cells to oxygen, which suppresses Th1 responses and promotes iTreg responses within the lung. As a consequence, immunologic permissivity of the lung to cancer metastasis is dependent upon PHD1, PHD2 and PHD3.
+  authors: Clever et al.
+  link:
+    url: Clever Cell 2016.pdf
+    display: <b>Cell (2016)</b> 166:1117-1131
+  highlight: 1
+  news2: 
+
+- title: "BACH2 functions as an AP-1 repressor in lymphocytes to promote CD8+ T cell memory"
+  image: roychoudhuri_ni_2016_a.png
+  description: This study was the first to define BACH2 key regulator of lymphocyte quiescence. We found that BACH2 restrains effector differentiation to promote differentiation of long-lived memory CD8+ T cells after viral infection. We found that BACH2 binds to enhancers where it engages in steric competition with AP-1 factors, limiting TCR-driven induction of AP-1 target genes to promote memory formation. Subsequent work has shown that BACH2 is expressed in stem-like progenitors within T cell responses to cancer.
+  authors: Roychoudhuri et al.
+  link:
+    url: Roychoudhuri NI 2016.pdf
+    display: <b>Nat Immunol (2016)</b> 17:851-860. 
+  highlight: 1
+  news2: Commentary by Sidwell and Kallies (<a href="http://dx.doi.org/10.1038/ni.3493">Nat Immunol 17:744-5</a>.  
+
+
+- title: "The transcription factor BACH2 promotes tumour immunosuppression through its function in Treg cell development"
+  image: roychoudhuri_jci_2016_a.png
+  description: This study established a role of BACH2 in Treg-mediated tumour immunosuppression. This function is corroborated by results of a large in vivo screen of host restriction factors to tumour metastasis (Van der Weyden et al., Nature 2017) and provides a basis for a CRUK-funded drug development programme with CRUK Therapeutic Discovery Laboratories to identify small molecule inhibitors of the suppressive activity of BACH2.
+  authors: Roychoudhuri et al.
+  link:
+    url: Roychoudhuri JCI 2016.pdf
+    display: <b>J Clin Invest (2016)</b> 126:599-604.
+  highlight: 1
+  news2: 
+
+- title: "The transcriptional repressor BACH2 is required for Treg cell development and suppression of lethal inflammation"
+  image: Roychoudhuri_nature_2013_a.png
+  description: This study established the critical function of the transcription factor BACH2 in immunological tolerance. We found that BACH2 is required for early Treg cell development and its deletion in mice results in lethal inflammation. The findings contributed to our understanding of why genetic polymorphisms within the BACH2 locus in humans are associated with susceptibility to autoimmune and allergic diseases (reviewed in Igarashi, Kurosaki and Roychoudhuri, Nat Rev Immunol 2017).
+  authors: Roychoudhuri et al.
+  link:
+    url: Roychoudhuri Nature 2013.pdf
+    display: <b>Nature (2013)</b> 498:506-10.
+  highlight: 1
+  news2: <b>Recommended by <a href="https://f1000.com/prime/718015787">F1000</a></b>
