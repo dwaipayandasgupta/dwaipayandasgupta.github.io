@@ -1,0 +1,36 @@
+---
+layout: gridlay
+---
+<div class="col-sm-3" clearfix>
+
+ {% if page.picture %}
+	<img src="{{ site.url }}{{ site.baseurl }}/images/member_pic/{{ page.picture }}" class="img-responsive" width="100%" style="float: left" alt="Photo of {{ page.title }}"/>
+  {% endif %}
+  <br /> &nbsp <br /> 
+  
+  {% if page.email %}	
+  <b>Email: </b><a href="{{ page.email }}">{{ page.email }}</a><br>
+  {% endif %}
+  
+   {% if page.tel %}	
+  <b>Tel: </b>{{ page.tel }}<br>
+  {% endif %}
+</div>
+ 
+<div class="col-sm-8">
+
+  <h3>{{ page.fullname }}</h3>
+  <h4>{{ page.position }}</h4>
+    {{ content }}
+	
+{% if page.pubmed_searchterm %}	
+  <h3>Publications</h3>
+	
+	{% include pubmed_gen_reflist.html pubmed_searchterm = page.pubmed_searchterm %}
+
+
+{% endif %}
+	
+</div>
+</div>
+  
