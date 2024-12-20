@@ -1,0 +1,52 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Roychoudhuri Lab - Immune regulation in inflammation and cancer
+email: rr257@cam.ac.uk  
+description: > # this means to ignore newlines until "baseurl:"
+  Immune regulation in inflammation and cancer. We are located at the Department of Pathology at the University of Cambridge, Cambridge, UK. We study the immunoregulatory mechanisms that suppress immune activation under homeostasis and cancer immunosuppression. We are interested in the differentiation and function of CD4+ T cells, including Foxp3+ regulatory T cells, and CD8+ T cells with cytotoxic function. We are interested in the mechanisms that restrict T cell activation and CD8+ T cell memory in the context of adoptive immunotherapy and immune checkpoint blockade therapy. 
+baseurl: ""
+url: "https://roychoudhurilab.org"
+
+include:
+  - .htaccess
+  - _pages
+
+sass:
+  sass_dir: _sass
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+#Collections
+collections:
+  members:
+    output: true
+    permalink: member/:name
+    sort_by: tier    
+    
+    
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+
+
+theme: jekyll-theme-slate
+
