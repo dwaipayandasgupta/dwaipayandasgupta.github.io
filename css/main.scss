@@ -1,0 +1,143 @@
+---
+---
+    
+@import "bootstrap";
+
+img { margin-bottom: 24px; 
+    margin-top: 17px; 
+    border-radius:2%;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  color:#333333;
+}
+
+
+
+body {
+	padding-top: 136px;
+	color:#333333;
+}
+
+@media screen and (max-width: 1100px){
+    body {
+        padding-top:158px;
+    }
+}
+
+footer p {
+  color: #333333;
+}
+
+
+figcaption {
+    text-align: right;
+    margin-top: -20px;
+    margin-bottom: 20px;
+	
+}
+
+
+
+/* Top navigation bar */
+
+.navbar-header > li{
+  margin-top:40px;
+  margin-bottom:20px;
+}
+
+
+p.byline {
+	text-align: center;
+	font-size: 18px;
+	line-height: 36px;
+	margin-top: -24px;
+	margin-bottom: 48px;
+
+}
+
+
+pubtit {
+	font-weight: bold;
+
+}
+
+firstp {
+}
+
+.container-fluid {
+  margin-top: auto;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1200px; /* or 950px */
+
+}
+
+/* Home, News */
+#newsid p {
+	text-align: left;
+	padding-top: 0px;
+}
+
+#homeidtmp h1 {
+	text-align: center;
+}
+
+#newsid img {
+	margin-top: 6px;
+	margin-bottom: 6px;
+}
+
+#research_contentid figure {
+	display: block; 
+	float: right;
+	margin: 0.5em;
+	padding: 0.5em;
+}
+
+#research_contentid img {
+	width: 100%; 
+	float: center; 
+	border: 10px;
+}
+
+#research_contentid figcaption {
+	caption-side: bottom;
+	float: center;
+	width: 100%;
+	text-align: justify;
+	text-indent: 0;
+}
+
+/* Team & Publications */
+#gridid img { margin: 16px 22px 6px 0; border-radius:6%; box-shadow: 2px 2px 5px #888888 }
+#homeid img { margin: 0 0 0 0; border-radius:5%; box-shadow: 0px 0px 0px #888888 }
+#picid img { margin: 6px 3px 60px 6px; border-radius:1%; box-shadow: 2px 2px 5px #888888 }
+#gridid .row { margin-bottom: 8px; }
+
+
+/* Grid overrides */
+.col-sm-1, .col-sm-2, .col-sm-3, .col-sm-5, .col-sm-6,
+.col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+/* Grid overrides */
+.col-sm-4 {
+	padding-left: 26px;
+	padding-right: 26px;
+}
+
+
+/* Carousel */
+
+.carousel {
+    border-radius: 3px 3px 3px 3px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
