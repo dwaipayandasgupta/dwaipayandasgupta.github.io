@@ -1,7 +1,7 @@
 ---
-title: "Roychoudhuri Lab - Home"
+title: "Dasgupta Lab - Home"
 layout: homelay
-excerpt: "Laboratory of Prof Rahul Roychoudhuri at the University of Cambridge."
+excerpt: "Laboratory of Dr Dwaipayan Dasgupta at the University of Tennessee."
 sitemap: false
 permalink: /
 ---
