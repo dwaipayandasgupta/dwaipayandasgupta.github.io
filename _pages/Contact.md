@@ -1,5 +1,5 @@
 ---
-title: "Roychoudhuri Lab - Contact us"
+title: "DD Research Group - Contact us"
 layout: contact
 excerpt: "Contact"
 sitemap: false
