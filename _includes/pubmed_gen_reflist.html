@@ -19,15 +19,14 @@ var HTMLpublication = '<a href="%data%" target="_blank" style="color: black"><b>
 var pdf_files = "{{ filelist }}";
 
 var publications, idStringList;
-var pubmedSearchAPI = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?";
+var pubmedSearchAPI = "https://scholar.google.com/citations?";
 var pubmedSummaryAPI = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?";
 
-var database = "db=pubmed";
 var returnmode = "&retmode=json";
 var returnmax = "&retmax=100";
-var searchterm = "&term={{ include.pubmed_searchterm }})";
+var searchterm = "user=V-rmWBwAAAAJ";
 var returntype = "&rettype=abstract";
-var idURL = pubmedSearchAPI + database + returnmode + returnmax + searchterm
+var idURL = pubmedSearchAPI + searchterm + returnmode + returnmax 
 console.log(idURL);
 
 var getPubmed = function(url) { //passed url
