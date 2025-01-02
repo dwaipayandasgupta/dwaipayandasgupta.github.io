@@ -3,7 +3,7 @@ title: "Roychoudhuri Lab - Publications"
 layout: researchlay
 excerpt: "Roychoudhuri Lab -- Publications."
 sitemap: false
-pubmed_searchterm: Dasgupta D [author]
+pubmed_searchterm: Dasgupta Dwaipayan [author]
 permalink: /publications/
 ---
 <div style="font-family: Arial, Helvetica, sans-serif">
