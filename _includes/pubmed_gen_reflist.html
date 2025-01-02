@@ -19,14 +19,15 @@ var HTMLpublication = '<a href="%data%" target="_blank" style="color: black"><b>
 var pdf_files = "{{ filelist }}";
 
 var publications, idStringList;
-var pubmedSearchAPI = "https://scholar.google.com/citations?";
+var pubmedSearchAPI = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?";
 var pubmedSummaryAPI = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?";
 
+var database = "db=pubmed";
 var returnmode = "&retmode=json";
 var returnmax = "&retmax=100";
-var searchterm = "user=V-rmWBwAAAAJ";
+var searchterm = "&term={{ include.pubmed_searchterm }})";
 var returntype = "&rettype=abstract";
-var idURL = pubmedSearchAPI + searchterm + returnmode 
+var idURL = pubmedSearchAPI + database + returnmode + returnmax + searchterm
 console.log(idURL);
 
 var getPubmed = function(url) { //passed url
@@ -49,8 +50,7 @@ getPubmed(idURL).then(function(data) {
     var idList = data.esearchresult.idlist;
     idStringList = idList.toString(); //converts the idlist to a string to be appended to the search url
     idStringList = '&id=' + idStringList;
-    summaryURL = pubmedSearchAPI + searchterm + returnmode ;
-    //summaryURL = pubmedSummaryAPI + database + returnmode + returntype + idStringList;
+    summaryURL = pubmedSummaryAPI + database + returnmode + returntype + idStringList;
     getPubmed(summaryURL).then(function(summary) {
         publications = formatReferences(summary);
         console.log(publications);	
