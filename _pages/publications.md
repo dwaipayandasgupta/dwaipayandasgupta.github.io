@@ -1,7 +1,7 @@
 ---
-title: "Roychoudhuri Lab - Publications"
+title: "DD Research Group - Publications"
 layout: researchlay
-excerpt: "Roychoudhuri Lab -- Publications."
+excerpt: "DD Research Group -- Publications."
 sitemap: false
 pubmed_searchterm: Dasgupta Dwaipayan [author]
 permalink: /publications/
