@@ -1,5 +1,5 @@
 ---
-title: "Dasgupta Lab - Home"
+title: "DD Research Group - Home"
 layout: homelay
 excerpt: "Laboratory of Dr Dwaipayan Dasgupta at the University of Tennessee."
 sitemap: false
